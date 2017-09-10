@@ -1,3 +1,3 @@
 ﻿public interface Material {
-	string ToString();
+	string toString();
 }

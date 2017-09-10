@@ -1,5 +1,5 @@
 ﻿public class DragonProduct : Product {
-	public string ToString() {
+	public string toString() {
 		return "龍血";
 	}
 }

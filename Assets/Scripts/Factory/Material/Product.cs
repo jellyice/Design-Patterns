@@ -1,3 +1,3 @@
 ﻿public interface Product {
-	string ToString();
+	string toString();
 }

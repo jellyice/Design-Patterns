@@ -1,5 +1,5 @@
 ﻿public class CryptProduct : Product {
-	public string ToString() {
+	public string toString() {
 		return "地穴";
 	}
 }

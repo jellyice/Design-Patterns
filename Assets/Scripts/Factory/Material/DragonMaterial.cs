@@ -1,5 +1,5 @@
 ﻿public class DragonMaterial : Material {
-	public string ToString() {
+	public string toString() {
 		return "與龍血";
 	}
 }

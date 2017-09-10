@@ -1,5 +1,5 @@
 ﻿public class CryptMaterial : Material {
-	public string ToString() {
+	public string toString() {
 		return "與螢光苔";
 	}
 }
