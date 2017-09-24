@@ -13,6 +13,9 @@ public class GameController {
 	}
 
 	public void setCommand(int slot, Command command) {
+		if (slot >= commands.Length)
+			return;
+		
 		commands[slot] = command;
 	}
 
